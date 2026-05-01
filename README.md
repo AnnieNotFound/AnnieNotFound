@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Anshika 👋
 
-<!--
-**AnnieNotFound/AnnieNotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Student  
+💻 Aspiring Front-end Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Skilled in HTML, CSS, JavaScript  
+- Building real-world projects  
+- Interested in Web development  
+
+---
+
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript  
+- Python (Basics), C++ (Basics)  
+- Arduino
+- Currently learning React
+
+---
+
+## 📌 Projects
+- EthnicShe – E-Commerce Website  
+- Algorithm Visualizer (Python)  
+- Digital Clock (Arduino)
+- Smart Study Planner and Tracker (Java)
+- Memory Distortion Tester (Basic React)
+
+---
+
+## 📫 Contact
+- Email: anshikaaa1612@gmail.com
+- LinkedIn: www.linkedin.com/in/anshika-3a0a5a329
