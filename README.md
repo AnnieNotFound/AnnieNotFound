@@ -14,7 +14,8 @@
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript  
-- Python (Basics), C++ (Basics)  
+- Python (Basics), C++ (Basics)
+- Java (Basics) 
 - Arduino
 - Currently learning React
 
@@ -26,6 +27,7 @@
 - Digital Clock (Arduino)
 - Smart Study Planner and Tracker (Java)
 - Memory Distortion Tester (Basic React)
+- Spotify signup clone (HTML & CSS)
 
 ---
 
