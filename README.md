@@ -28,6 +28,7 @@
 - Smart Study Planner and Tracker (Java)
 - Memory Distortion Tester (Basic React)
 - Spotify signup clone (HTML & CSS)
+- Spotify web player UI (HTML, CSS & JS)
 
 ---
 
