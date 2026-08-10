@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- Skilled in HTML, CSS, JavaScript  
+- Skilled in HTML, CSS, JavaScript and React 
 - Building real-world projects  
 - Interested in Web development  
 
